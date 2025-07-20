@@ -11,7 +11,7 @@ I enjoy exploring new tools and tech stacks 💻, and I love building things tha
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> 
 
 <div align="center">
-  <!-- Frontend -->
+  <h3>🛠️ Frontend Skills</h3>
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
     <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React.js" width="51" />
     <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="51" />
@@ -25,7 +25,7 @@ I enjoy exploring new tools and tech stacks 💻, and I love building things tha
 <br>
 
 <div align="center">
- <h3>🛠️ Backend & Tools</h3>
+  <h3>🛠️ Backend & Tools</h3>
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin-top: 10px;">
     <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="48" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express.js" width="60" />
@@ -35,22 +35,19 @@ I enjoy exploring new tools and tech stacks 💻, and I love building things tha
     <img src="https://img.icons8.com/ios-filled/50/4479A1/mysql-logo.png" alt="MySQL" width="48" />
     <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" width="48" />
     <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="48" />
-    <img src="https://seeklogo.com/images/E/elasticsearch-logo-36F6D0FBE0-seeklogo.com.png" alt="Elasticsearch" width="48" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" alt="Elasticsearch" width="48" />
   </div>
 
-  <!-- Testing -->
   <h3>🧪 Testing</h3>
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin-top: 10px;">
-    <img src="https://cdn.worldvectorlogo.com/logos/jest-0.svg" alt="Jest" width="48" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="Jest" width="48" />
   </div>
 
-  <!-- API Documentation -->
   <h3>📄 API Documentation</h3>
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin-top: 10px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c8/OpenAPI_Logo_Pantone.png" alt="OpenAPI Specification" width="48" />
+    <img src="https://raw.githubusercontent.com/OAI/OpenAPI-Specification/main/examples/v3.0/logo.png" alt="OpenAPI Specification" width="48" />
   </div>
 </div>
-
 <div align="center">
   <!-- Database & Tools -->
     <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" alt="GitHub" width="48" />
@@ -71,7 +68,7 @@ I enjoy exploring new tools and tech stacks 💻, and I love building things tha
 
 - 👯 *Looking to collaborate on:* Real-world, impact-driven products and open-source projects  
 
-- 📫 How to reach me *kchahar7204@gmail.com*
+- 📫 How to reach me *asthasrivastava0293@gmail.com*
 
 <br>
 <h3 align="left">Connect with me:</h3>
