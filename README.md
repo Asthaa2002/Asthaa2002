@@ -45,7 +45,7 @@ I enjoy exploring new tools and tech stacks 💻, and I love building things tha
 
   <h3>📄 API Documentation</h3>
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin-top: 10px;">
-    <img src="https://raw.githubusercontent.com/OAI/OpenAPI-Specification/main/examples/v3.0/logo.png" alt="OpenAPI Specification" width="48" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" alt="OpenAPI Specification" width="48" />
   </div>
 </div>
 <div align="center">
